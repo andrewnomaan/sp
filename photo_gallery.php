@@ -21,7 +21,7 @@
                     <div class="col-md-6">
                       <img src="assets/img/1 .jpg" alt="No image" class="img-fluid">
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 pt-4">
                       <img src="assets/img/2.jpg" alt="No image" class="img-fluid">
                     </div>
                     <div class="col-md-6 pt-4">
