@@ -17,7 +17,7 @@
         </div>
 
         <div class="row justify-content-center">
-            <div class="col-sm-10 table-responsive col-12">
+            <div class="col-sm-10 col-12">
         <table class="table table-bordered">
     <thead>
     <tr>
