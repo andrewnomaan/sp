@@ -18,32 +18,57 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-6">
-                      <img src="assets/img/1 .jpg" alt="No image" class="img-fluid">
+                    <div class="col-md-6 pt-4">
+                        <div class="card" style="border:none">
+                            <img src="assets/img/1 .jpg" alt="No image" class="img-fluid">
+                            <a href="women_empower_library.php" class="btn-know-more initiatives mt-2">महिला सशक्तिकरण</a>
+                        </div>
                     </div>
                     <div class="col-md-6 pt-4">
-                      <img src="assets/img/2.jpg" alt="No image" class="img-fluid">
+                        <div class="card" style="border:none">
+                            <img src="assets/img/2.jpg" alt="No image" class="img-fluid">
+                            <a href="business_library.php" class="btn-know-more initiatives mt-2">व्यापार पहल</a>
+                        </div>
                     </div>
                     <div class="col-md-6 pt-4">
-                      <img src="assets/img/3.jpg" alt="No image" class="img-fluid">
+                        <div class="card" style="border:none">
+                            <img src="assets/img/3.jpg" alt="No image" class="img-fluid">
+                            <a href="industry_library.php" class="btn-know-more initiatives mt-2">औद्योगिक पहल</a>
+                        </div>
                     </div>
                     <div class="col-md-6 pt-4">
-                      <img src="assets/img/4.jpg" alt="No image" class="img-fluid">
+                        <div class="card" style="border:none">
+                            <img src="assets/img/4.jpg" alt="No image" class="img-fluid">
+                            <a href="education_library.php" class="btn-know-more initiatives mt-2">शिक्षा पहल</a>
+                        </div>
                     </div>
                     <div class="col-md-6 pt-4">
-                      <img src="assets/img/5.jpg" alt="No image" class="img-fluid">
+                        <div class="card" style="border:none">
+                            <img src="assets/img/5.jpg" alt="No image" class="img-fluid">
+                            <a href="infrastructure_library.php" class="btn-know-more initiatives mt-2">बुनियादी ढांचा पहल</a>
+                        </div>
                     </div>
                     <div class="col-md-6 pt-4">
-                      <img src="assets/img/6.jpg" alt="No image" class="img-fluid">
+                        <div class="card" style="border:none">
+                            <img src="assets/img/6.jpg" alt="No image" class="img-fluid">
+                            <a href="agriculture_library.php" class="btn-know-more initiatives mt-2">कृषि पहल</a>
+                        </div>
                     </div>
                     <div class="col-md-6 pt-4">
-                      <img src="assets/img/7.jpg" alt="No image" class="img-fluid">
+                        <div class="card" style="border:none">
+                            <img src="assets/img/7.jpg" alt="No image" class="img-fluid">
+                            <a href="party_history_library.php" class="btn-know-more initiatives mt-2">पार्टी का इतिहास</a>
+                        </div>
                     </div>
                     <div class="col-md-6 pt-4">
-                      <img src="assets/img/8.jpg" alt="No image" class="img-fluid">
+                        <div class="card" style="border:none">
+                            <img src="assets/img/8.jpg" alt="No image" class="img-fluid">
+                            <a href="party_rally_library.php" class="btn-know-more initiatives mt-2">पार्टी रेलिया</a>
+                        </div>
                     </div>
-                    
+
                 </div>
+
             </div>
         </section>
     </main>
