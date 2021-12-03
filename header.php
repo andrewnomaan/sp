@@ -56,20 +56,20 @@
          <li><a class="nav-link scrollto" href="#portfolio">जिला अध्यक्ष</a></li>
          <li class="dropdown"><a href="#"><span>सदस्य</span> <i class="bi bi-chevron-down"></i></a>
            <ul>
-             <li><a href="#">विधान परिषद के सदस्य</a></li>
-             <li><a href="#">राज्यसभा के सदस्य</a></li>
-             <li><a href="#">लोकसभा के सदस्य</a></li>
-             <li><a href="#">विधान सभा के सदस्य</a></li>
+             <li><a href="">विधान परिषद के सदस्य</a></li>
+             <li><a href="">राज्यसभा के सदस्य</a></li>
+             <li><a href="">लोकसभा के सदस्य</a></li>
+             <li><a href="">विधान सभा के सदस्य</a></li>
            </ul>
          </li>
          <li class="dropdown"><a href="#"><span>विकास पहल</span> <i class="bi bi-chevron-down"></i></a>
            <ul>
-             <li><a href="#">महिला सशक्तिकरण की पहल</a></li>
-             <li><a href="#">बुनियादी ढांचा पहल</a></li>
-             <li><a href="#">कृषि पहल</a></li>
-             <li><a href="#">व्यापार पहल</a></li>
-             <li><a href="#">औद्योगिक पहल</a></li>
-             <li><a href="#">शिक्षा पहल</a></li>
+             <li><a href="women_empowerment.php">महिला सशक्तिकरण की पहल</a></li>
+             <li><a href="infrastructure.php">बुनियादी ढांचा पहल</a></li>
+             <li><a href="agriculture.php">कृषि पहल</a></li>
+             <li><a href="business.php">व्यापार पहल</a></li>
+             <li><a href="industry.php">औद्योगिक पहल</a></li>
+             <li><a href="education.php">शिक्षा पहल</a></li>
            </ul>
          </li>
          <li class="dropdown"><a href="#"><span>मीडिया</span> <i class="bi bi-chevron-down"></i></a>
