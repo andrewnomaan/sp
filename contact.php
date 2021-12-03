@@ -9,15 +9,42 @@
   $assets='assets/img/downloads/';
 ?>
 <main id="main">
-    <section id="" class="section-bg">
-      <div class="container-fluid contact">
+<section id="contact" class="contact section-bg">
+      <div class="container-fluid">
 
         <div class="section-title">
-            <h2>संपर्क</h2>
+          <h2>संपर्क</h2>
+          <h3>हमारे साथ संपर्क में <span>रहें</span></h3>
         </div>
 
         <div class="row justify-content-center">
-<div class="col-lg-6">
+          <div class="col-xl-10">
+            <div class="row">
+
+              <div class="col-lg-6">
+
+                <div class="row justify-content-center">
+
+                  <div class="col-md-12 info d-flex flex-column align-items-stretch">
+                    <i class="bx bx-map"></i>
+                    <h4>पता</h4>
+                    <p>समाजवादी पार्टी बिजनौर - 246701,<br>उत्तर प्रदेश, भारत</p>
+                  </div>
+                  <div class="col-md-6 info d-flex flex-column align-items-stretch">
+                    <i class="bx bx-phone"></i>
+                    <h4>कॉल करें</h4>
+                    <p>+91 0000 0000 00<br>+91 0000 0000 00</p>
+                  </div>
+                  <div class="col-md-6 info d-flex flex-column align-items-stretch">
+                    <i class="bx bx-envelope"></i>
+                    <h4>ईमेल</h4>
+                    <p>contact@example.com<br>info@example.com</p>
+                  </div>
+                </div>
+
+              </div>
+
+              <div class="col-lg-6">
                 <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                   <div class="row">
                     <div class="col-md-6 form-group">
@@ -37,14 +64,21 @@
                     <label for="message">संदेश</label>
                     <textarea class="form-control" name="message" rows="8" required></textarea>
                   </div>
-                  
-                  <div class="text-center pt-3"><button type="submit">संदेश भेजें</button></div>
+                  <div class="my-3">
+                    <div class="loading">Loading</div>
+                    <div class="error-message"></div>
+                    <div class="sent-message">Your message has been sent. Thank you!</div>
+                  </div>
+                  <div class="text-center"><button type="submit">संदेश भेजें</button></div>
                 </form>
               </div>
-              </div>
 
-</div>
-</section>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
 </main>
 <?php include('footer.php') ?>
 
