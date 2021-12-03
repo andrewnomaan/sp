@@ -308,8 +308,423 @@
             '<option>अमापुर</option>'+
             '<option>पटियाली</option>';
         }
+        else if(district.value=="एटा"){
+            document.getElementById('nirvachan').innerHTML=' <option>अलीगंज</option>'+
+            '<option>एटा</option>'+
+            '<option>मरहारा</option>'+
+            '<option>जलेसर</option>';
+        }
+        else if(district.value=="मैनपुरी"){
+            document.getElementById('nirvachan').innerHTML=' <option>मैनपुरी</option>'+
+            '<option>भोगाँव</option>'+
+            '<option>किशनी</option>'+
+            '<option>करहल</option>';
+        }
+        else if(district.value=="बदायूं"){
+            document.getElementById('nirvachan').innerHTML=' <option>गुन्नौर</option>'+
+            '<option>बिसौली</option>'+
+            '<option>सहसवान</option>'+
+            '<option>बिल्सी</option>'+
+            '<option>बदायूं</option>'+
+            '<option>शेखूपुर</option>'+
+            '<option>दातागंज</option>';
+        }
+        else if(district.value=="बरेली"){
+            document.getElementById('nirvachan').innerHTML=' <option>बहेरी</option>'+
+            '<option>मीरगंज</option>'+
+            '<option>भोजीपुरा</option>'+
+            '<option>नवाबगंज</option>'+
+            '<option>फरीदपुर</option>'+
+            '<option>बरेली</option>'+
+            '<option>बरेली कैंट</option>'+
+            '<option>आँवला</option>';
+        }
+        else if(district.value=="पीलीभीत"){
+            document.getElementById('nirvachan').innerHTML=' <option>पीलीभीत</option>'+
+            '<option>बरखेड़ा</option>'+
+            '<option>पूरनपुर</option>'+
+            '<option>बीसलपुर</option>';
+        }
+        else if(district.value=="शाहजहांपुर"){
+            document.getElementById('nirvachan').innerHTML=' <option>कटरा</option>'+
+            '<option>जलालाबाद</option>'+
+            '<option>तिलहर</option>'+
+            '<option>पोवाया</option>'+
+            '<option>ददरौल</option>';
+        }
+        else if(district.value=="लखीमपुर खीरी"){
+            document.getElementById('nirvachan').innerHTML=' <option>पलिया</option>'+
+            '<option>निधासन</option>'+
+            '<option>गोला गोकर्णनाथ</option>'+
+            '<option>श्रीनगर</option>'+
+            '<option>धौरहरा</option>'+
+            '<option>लखीमपुर</option>'+
+            '<option>कस्ता</option>'+
+            '<option>मोहम्मदी</option>';
+        }
+        else if(district.value=="सीतापुर"){
+            document.getElementById('nirvachan').innerHTML=' <option>महोली</option>'+
+            '<option>सीतापुर</option>'+
+            '<option>हरगाओ</option>'+
+            '<option>लहरपुर</option>'+
+            '<option>विस्नवा</option>'+
+            '<option>सेवाता</option>'+
+            '<option>महमूदाबाद</option>'+
+            '<option>सिधौली</option>'+
+            '<option>मिश्रीख</option>';
+        }
+        else if(district.value=="हरदोई"){
+            document.getElementById('nirvachan').innerHTML=' <option>सवैजपुर</option>'+
+            '<option>शाहाबाद</option>'+
+            '<option>हरदोई</option>'+
+            '<option>गोपामऊ</option>'+
+            '<option>साण्डी</option>'+
+            '<option>बिलग्राम मल्लनवा</option>'+
+            '<option>बालामाऊ</option>'+
+            '<option>संडीला</option>';
+        }
+        else if(district.value=="हरदोई"){
+            document.getElementById('nirvachan').innerHTML=' <option>सवैजपुर</option>'+
+            '<option>शाहाबाद</option>'+
+            '<option>हरदोई</option>'+
+            '<option>गोपामऊ</option>'+
+            '<option>साण्डी</option>'+
+            '<option>बिलग्राम मल्लनवा</option>'+
+            '<option>बालामाऊ</option>'+
+            '<option>संडीला</option>';
+        }
+        else if(district.value=="उन्नाव"){
+            document.getElementById('nirvachan').innerHTML=' <option>बांगरमऊ</option>'+
+            '<option>सफ़ीपुर</option>'+
+            '<option>मोहन</option>'+
+            '<option>उन्नाव</option>'+
+            '<option>भगवंत नगर</option>'+
+            '<option>पूर्वा</option>';
+        }
+        else if(district.value=="लखनऊ"){
+            document.getElementById('nirvachan').innerHTML=' <option>मलीहाबाद</option>'+
+            '<option>बख्शी का तालाब</option>'+
+            '<option>सरोजिनी नगर</option>'+
+            '<option>लखनऊ पश्चिम</option>'+
+            '<option>लखनऊ उत्तर</option>'+
+            '<option>लखनऊ पूर्व</option>'+
+            '<option>लखनऊ सेंट्रल</option>'+
+            '<option>लखनऊ कैंट</option>'+
+            '<option>मोहनलाल गंज</option>';
+        }
+        else if(district.value=="राय बरेली"){
+            document.getElementById('nirvachan').innerHTML=' <option>बछरावा</option>'+
+            '<option>हरचंदपुर</option>'+
+            '<option>राय बरेली</option>'+
+            '<option>सारेनी</option>'+
+            '<option>ऊंचाहार</option>'+
+            '<option>सलोन</option>';
+        }
+        else if(district.value=="अमेठी"){
+            document.getElementById('nirvachan').innerHTML=' <option>तिलोई</option>'+
+            '<option>जगदीशपुर</option>'+
+            '<option>गोरीगंज</option>'+
+            '<option>अमेठी</option>';
+        }
+        else if(district.value=="सुल्तानपुर"){
+            document.getElementById('nirvachan').innerHTML=' <option>इसौली</option>'+
+            '<option>सुल्तानपुर</option>'+
+            '<option>सदर</option>'+
+            '<option>लम्भुआ</option>'+
+            '<option>कादीपुर</option>';
+        }
+        else if(district.value=="फर्रुखाबाद"){
+            document.getElementById('nirvachan').innerHTML=' <option>कायमगंज</option>'+
+            '<option>अमृतपुर</option>'+
+            '<option>फर्रुखाबाद</option>'+
+            '<option>भोजपुर</option>';
+        }
+        else if(district.value=="कन्नौज"){
+            document.getElementById('nirvachan').innerHTML=' <option>छिबरामऊ</option>'+
+            '<option>तिरवा</option>'+
+            '<option>कन्नौज</option>';
+        }
+        else if(district.value=="इटावा"){
+            document.getElementById('nirvachan').innerHTML=' <option>जसवंतपुर</option>'+
+            '<option>इटावा</option>'+
+            '<option>भरथना</option>';
+        }
+        else if(district.value=="औरैया"){
+            document.getElementById('nirvachan').innerHTML=' <option>विधुना</option>'+
+            '<option>दिबियापुर</option>'+
+            '<option>औरैया</option>';
+        }
+        else if(district.value=="कानपुर देहात"){   
+            document.getElementById('nirvachan').innerHTML=' <option> रसूलाबाद</option>'+
+            '<option>अकबरपुरनिया</option>'+
+            '<option>सिकंदरा</option>'+
+            '<option>भोगनीपुर</option>';
+        }
+        else if(district.value=="कानपुर ग्रामीण"){   
+            document.getElementById('nirvachan').innerHTML=' <option> बिल्होर</option>'+
+            '<option>बिथपुर</option>'+
+            '<option>कल्याणपुर</option>';
+        }
+        else if(district.value=="कानपुर नगर"){  
+            document.getElementById('nirvachan').innerHTML=' <option>  गोविंद नगर</option>'+
+            '<option>सीसामाऊ</option>'+
+            '<option>आर्य नगर</option>'+
+            '<option>किदवई नगर</option>'+
+            '<option>कानपुर कैंट</option>'+
+            '<option>महाराजपुर </option>';
+        }
+        else if(district.value=="जालौन"){ 
+            document.getElementById('nirvachan').innerHTML=' <option>माधोगढ</option>'+
+            '<option>कलपी</option>'+
+            '<option>उरई </option>';
+        }
+        else if(district.value=="झाँसी"){ 
+            document.getElementById('nirvachan').innerHTML=' <option> बबीना</option>'+
+            '<option> झांसी नगर</option>'+
+            '<option> मऊरानीपुर</option>'+
+            '<option>गरौठा</option>';
+        }
+        else if(district.value=="ललितपुर"){ 
+            document.getElementById('nirvachan').innerHTML=' <option> बबीना</option>'+
+            '<option>महरोनी</option>';
+        }
+        else if(district.value=="हमीरपुर"){ 
+            document.getElementById('nirvachan').innerHTML=' <option> हमीरपुर</option>'+
+            '<option>राठ</option>';
+        }
+        else if(district.value=="महोबा"){ 
+            document.getElementById('nirvachan').innerHTML=' <option> महोबा</option>'+
+            '<option>चरखारी</option>';
+        }
+        else if(district.value=="बाँदा"){ 
+            document.getElementById('nirvachan').innerHTML=' <option>तिन्दवारी</option>'+
+            '<option>बबेरू</option>'+
+            '<option>नारायणी</option>'+
+            '<option>बाँदा</option>';
+        }
+        else if(district.value=="चित्रकूट"){ 
+            document.getElementById('nirvachan').innerHTML=' <option>चित्रकूट</option>'+
+            '<option>मनिकपुर</option>';
+        }
+        else if(district.value=="फतेहपुर"){ 
+            document.getElementById('nirvachan').innerHTML=' <option>  जहानाबाद</option>'+
+            '<option>बिंदकी</option>'+
+            '<option>फतेहपुर</option>'+
+            '<option>आया शाह</option>'+
+            '<option>हुसैनगंज</option>'+
+            '<option>खागा</option>';
+        }
+        else if(district.value=="प्रतापगढ"){ 
+            document.getElementById('nirvachan').innerHTML=' <option> रामपुर खास</option>'+
+            '<option>बाबागंज</option>'+
+            '<option>कुंडा</option>'+
+            '<option>विश्वनाथ गंज</option>'+
+            '<option>प्रतापगढ</option>'+
+            '<option>पटी</option>'+
+            '<option>रानीगंज</option>';
+        }
+        else if(district.value=="कौशाम्बी"){ 
+            document.getElementById('nirvachan').innerHTML=' <option>सिराथू</option>'+
+            '<option>मंजनपुर</option>'+
+            '<option>चायल</option>';
+        }
+        else if(district.value=="इलाहाबाद"){
+            document.getElementById('nirvachan').innerHTML=' <option>फाफामाऊ</option>'+
+            '<option>सौरंवी</option>'+
+            '<option>फूलपुर</option>'+
+            '<option>प्रताप पुरी</option>'+
+            '<option>हंडिया</option>'+
+            '<option>मेजा</option>'+
+            '<option>करछना</option>'+
+            '<option>इलाहाबाद पश्चिम</option>'+
+            '<option>इलाहाबाद उत्तर</option>'+
+            '<option>इलाहाबाद दक्षिण</option>'+
+            '<option>बारा</option>'+
+            '<option>कोरांव</option>';
+        }
+        else if(district.value=="बाराबंकी"){
+            document.getElementById('nirvachan').innerHTML=' <option> कुरसी</option>'+
+            '<option>रामनगर</option>'+
+            '<option>बाराबंकी</option>'+
+            '<option>जैदपुर</option>'+
+            '<option>हैदरगढ</option>'+
+            '<option>दरियाबाद</option>';
+        }
+        else if(district.value=="अम्बेडकर नगर"){
+            document.getElementById('nirvachan').innerHTML=' <option> कटेहरी</option>'+
+            '<option>टांडा</option>'+
+            '<option>अलापुर</option>'+
+            '<option>जलालपुर</option>'+
+            '<option>अकबरपुर</option>';
+        }
+        else if(district.value=="बहराइच"){
+            document.getElementById('nirvachan').innerHTML=' <option> बलहा</option>'+
+            '<option>नानपारा</option>'+
+            '<option>मटेरा</option>'+
+            '<option>महसी</option>'+
+            '<option>बहराइच</option>'+
+            '<option>प्रयागपुर</option>'+
+            '<option>कैसरगंज</option>';
+        }
+        else if(district.value=="श्रावस्ती"){
+            document.getElementById('nirvachan').innerHTML=' <option>श्रावस्ती</option>'+
+            '<option>भिंगा</option>';
+        }
+        else if(district.value=="बलरामपुर"){
+            document.getElementById('nirvachan').innerHTML=' <option> मऊ</option>'+
+            '<option>गौसरी</option>'+
+            '<option>उतरौला</option>'+
+            '<option>बलरामपुर</option>';
+        }
+        else if(district.value=="गोंडा"){
+            document.getElementById('nirvachan').innerHTML=' <option>  महनाओ</option>'+
+            '<option>गोंडा</option>'+
+            '<option>कटरा बाजार</option>'+
+            '<option>करनालगंज</option>'+
+            '<option>तरबगंज</option>'+
+            '<option>मनकापुर</option>'+
+            '<option>गौरा</option>';
+        }
+        else if(district.value=="सिद्धार्थनगर"){
+            document.getElementById('nirvachan').innerHTML=' <option> शोहरथगढ</option>'+
+            '<option>कपिलवसतु</option>'+
+            '<option>बंसी</option>'+
+            '<option>इतवा</option>'+
+            '<option>डुमरियागंज</option>';
+        }
+        else if(district.value=="बस्ती"){
+            document.getElementById('nirvachan').innerHTML=' <option>हरैया</option>'+
+            '<option>कप्तानगंज</option>'+
+            '<option>रुधौली</option>'+
+            '<option>बस्ती सदरी</option>'+
+            '<option>महादेवा</option>';
+        }
+        else if(district.value=="संत कबीरनगर"){
+            document.getElementById('nirvachan').innerHTML=' <option>मेंधावल</option>'+
+            '<option>खलीलाबाद</option>'+
+            '<option>घंघाटा</option>';
+        }
+        else if(district.value=="महाराजगंज"){
+            document.getElementById('nirvachan').innerHTML=' <option>फरेंदा</option>'+
+            '<option>नौटेनवा</option>'+
+            '<option>सिसवान</option>'+
+            '<option>महाराजगंज</option>'+
+            '<option>पनियारा</option>';
+        }
+        else if(district.value=="गोरखपुर"){
+            document.getElementById('nirvachan').innerHTML=' <option>खजानी</option>'+
+            '<option>कैम्पियरगंज</option>'+
+            '<option>पिपराइच</option>'+
+            '<option>गोरखपुर शहर</option>'+
+            '<option>गोरखपुर ग्रामीण</option>'+
+            '<option>सहजनवा</option>'+
+            '<option>चौरा चौरी</option>'+
+            '<option>बांसगांव</option>'+
+            '<option>चिल्लूपर</option>';
+        }
+        else if(district.value=="कुशीनगर"){
+            document.getElementById('nirvachan').innerHTML=' <option>खडडा</option>'+
+            '<option>पडरौना</option>'+
+            '<option>तमकुहीराज</option>'+
+            '<option>फाज़िल नगर</option>'+
+            '<option>कुशीनगर</option>'+
+            '<option>हटा</option>'+
+            '<option>रामकोला</option>';
+        }
+        else if(district.value=="देवरिया"){
+            document.getElementById('nirvachan').innerHTML=' <option> रुद्रपुर</option>'+
+            '<option>देवरिया</option>'+
+            '<option>पथरादेवा</option>'+
+            '<option>रामपुर कारखाना</option>'+
+            '<option>भाटपर रानी</option>'+
+            '<option>सलेमपुर</option>'+
+            '<option>बरहाज</option>';
+        }
+        else if(district.value=="आजमगढ़"){
+            document.getElementById('nirvachan').innerHTML=' <option> अतरौलिया</option>'+
+            '<option>गोपालपुर</option>'+
+            '<option>सागदी</option>'+
+            '<option>मुबारकपुर</option>'+
+            '<option>आजमगढ</option>'+
+            '<option>निजामाबाद</option>'+
+            '<option>फूलपुरपवई</option>'+
+            '<option>दीदारगंज</option>'+
+            '<option>लालगंज</option>'+
+            '<option>मेह नगर</option>';
+        }
+        else if(district.value=="मऊ"){
+            document.getElementById('nirvachan').innerHTML=' <option>  मधुबन</option>'+
+            '<option>घोषी</option>'+
+            '<option>मोहम्मदाबाद गोहाना</option>'+
+            '<option>मऊ</option>';
+        }
+        else if(district.value=="बलिया"){
+            document.getElementById('nirvachan').innerHTML=' <option>बेल्थारारोड</option>'+
+            '<option>रसदा</option>'+
+            '<option>सिकंदरपुर</option>'+
+            '<option>फैफ़ना</option>'+
+            '<option>बलियानगर</option>'+
+            '<option>बांसडीह</option>'+
+            '<option>बैरिया</option>';
+        }
+        else if(district.value=="जौनपुर"){
+            document.getElementById('nirvachan').innerHTML=' <option>बदलापुर</option>'+
+            '<option>शाहगंज</option>'+
+            '<option>जौनपुर</option>'+
+            '<option>मल्हानी</option>'+
+            '<option>मुंगरबादशाहपुर</option>'+
+            '<option>मछलीशहर</option>'+
+            '<option>मारियाहु</option>'+
+            '<option>जाफराबाद</option>'+
+            '<option>केराकाट</option>';
+        }
+        else if(district.value=="ग़ाज़ीपुर"){
+            document.getElementById('nirvachan').innerHTML=' <option>जखनिया</option>'+
+            '<option>गाज़ीपुर</option>'+
+            '<option>जंगीपुर</option>'+
+            '<option>मल्हानी</option>'+
+            '<option>जहराबाद</option>'+
+            '<option>मोहम्मदाबाद</option>'+
+            '<option>जमानिया</option>';
+        }
+        else if(district.value=="चंदौली"){
+            document.getElementById('nirvachan').innerHTML=' <option>सकलडीहा</option>'+
+            '<option>मुगलसराय</option>'+
+            '<option>सैयादराजा</option>'+
+            '<option>चकिया</option>';
+        }
+        else if(district.value=="वाराणसी"){
+            document.getElementById('nirvachan').innerHTML=' <option>पिंड</option>'+
+            '<option>अजगरा</option>'+
+            '<option>शिवपुर</option>'+
+            '<option>रोहनिया</option>'+
+            '<option>वाराणसी उत्तर</option>'+
+            '<option>वाराणसी दक्षिण</option>'+
+            '<option>वाराणसी कैंट</option>'+
+            '<option>सेवापुरी</option>';
+        }
+        else if(district.value=="भदोही"){
+            document.getElementById('nirvachan').innerHTML=' <option>भदोही</option>'+
+            '<option>ज्ञानपुर</option>'+
+            '<option>उरई</option>';
+        }
+        else if(district.value=="मिर्ज़ापुर"){
+            document.getElementById('nirvachan').innerHTML=' <option>छानबे</option>'+
+            '<option>मिर्ज़ापुर</option>'+
+            '<option>मांझावा</option>'+
+            '<option>चुनार</option>'+
+            '<option>मदिहान</option>';
+        }
+        else if(district.value=="सोनभद्र"){
+            document.getElementById('nirvachan').innerHTML=' <option>घोरावल</option>'+
+            '<option>रोबेर्त्स्गंज</option>'+
+            '<option>ओबेरा</option>'+
+            '<option>दुधि</option>';
+        }
+        else{
+            document.getElementById('nirvachan').innerHTML="";
+        }
        })
-      
   </script>
     
 </body>
