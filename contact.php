@@ -45,7 +45,7 @@
               </div>
 
               <div class="col-lg-6">
-                <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                <form action="action.php" method="post" role="form" class="php-email-form">
                   <div class="row">
                     <div class="col-md-6 form-group">
                       <label for="name">आपका नाम</label>
@@ -69,7 +69,7 @@
                     <div class="error-message"></div>
                     <div class="sent-message">Your message has been sent. Thank you!</div>
                   </div>
-                  <div class="text-center"><button type="submit">संदेश भेजें</button></div>
+                  <div class="text-center"><button type="submit" name="contact">संदेश भेजें</button></div>
                 </form>
               </div>
 
