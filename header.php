@@ -45,48 +45,48 @@
          <li><a class="nav-link scrollto active" href="./">होम</a></li>
          <li class="dropdown"><a href="#"><span>बारे में</span> <i class="bi bi-chevron-down"></i></a>
            <ul>
-             <li><a href="about_party.php">पार्टी के बारे में</a></li>
-             <li><a href="party_history.php">पार्टी का इतिहास</a></li>
-             <li><a href="party_ideology.php">पार्टी विचारधारा</a></li>
-             <li><a href="party_constitution.php">पार्टी संविधान</a></li>
-             <li><a href="party_leader.php">पार्टी नेता</a></li>
-             <li><a href="party_president.php">पार्टी अध्यक्ष</a></li>
+             <li><a href="about_party">पार्टी के बारे में</a></li>
+             <li><a href="party_history">पार्टी का इतिहास</a></li>
+             <li><a href="party_ideology">पार्टी विचारधारा</a></li>
+             <li><a href="party_constitution">पार्टी संविधान</a></li>
+             <li><a href="party_leader">पार्टी नेता</a></li>
+             <li><a href="party_president">पार्टी अध्यक्ष</a></li>
            </ul>
          </li>
-         <li><a class="nav-link scrollto" href="#portfolio">जिला अध्यक्ष</a></li>
+         <li><a class="nav-link scrollto" href="jilaadhyaksha">जिला अध्यक्ष</a></li>
          <li class="dropdown"><a href="#"><span>सदस्य</span> <i class="bi bi-chevron-down"></i></a>
            <ul>
-             <li><a href="">विधान परिषद के सदस्य</a></li>
-             <li><a href="">राज्यसभा के सदस्य</a></li>
-             <li><a href="">लोकसभा के सदस्य</a></li>
-             <li><a href="">विधान सभा के सदस्य</a></li>
+             <li><a href="member_of_vidhanparishad">विधान परिषद के सदस्य</a></li>
+             <li><a href="member_of_rajyasabha">राज्यसभा के सदस्य</a></li>
+             <li><a href="member_of_loksabha">लोकसभा के सदस्य</a></li>
+             <li><a href="member_of_vidhansabha">विधान सभा के सदस्य</a></li>
            </ul>
          </li>
          <li class="dropdown"><a href="#"><span>विकास पहल</span> <i class="bi bi-chevron-down"></i></a>
            <ul>
-             <li><a href="women_empowerment.php">महिला सशक्तिकरण की पहल</a></li>
-             <li><a href="infrastructure.php">बुनियादी ढांचा पहल</a></li>
-             <li><a href="agriculture.php">कृषि पहल</a></li>
-             <li><a href="business.php">व्यापार पहल</a></li>
-             <li><a href="industry.php">औद्योगिक पहल</a></li>
-             <li><a href="education.php">शिक्षा पहल</a></li>
+             <li><a href="women_empowerment">महिला सशक्तिकरण की पहल</a></li>
+             <li><a href="infrastructure">बुनियादी ढांचा पहल</a></li>
+             <li><a href="agriculture">कृषि पहल</a></li>
+             <li><a href="business">व्यापार पहल</a></li>
+             <li><a href="industry">औद्योगिक पहल</a></li>
+             <li><a href="education">शिक्षा पहल</a></li>
            </ul>
          </li>
          <li class="dropdown"><a href="#"><span>मीडिया</span> <i class="bi bi-chevron-down"></i></a>
            <ul>
-             <li><a href="press_vigyapti.php">प्रेस विज्ञप्ति</a></li>
-             <li><a href="samajwadi_bulletin.php">समाजवादी बुलेटिन</a></li>
-             <li><a href="#">समाचार</a></li>
-             <li><a href="photo_gallery.php">फोटो गैलरी</a></li>
-             <li><a href="video_gallery.php">वीडियो गैलरी</a></li>
+             <li><a href="press_vigyapti">प्रेस विज्ञप्ति</a></li>
+             <li><a href="samajwadi_bulletin">समाजवादी बुलेटिन</a></li>
+             <!-- <li><a href="#">समाचार</a></li> -->
+             <li><a href="photo_gallery">फोटो गैलरी</a></li>
+             <li><a href="video_gallery">वीडियो गैलरी</a></li>
            </ul>
          </li>
          <li class="dropdown"><a href=""><span>पार्टी में शामिल हों</span> <i class="bi bi-chevron-down"></i></a>
            <ul>
-             <li><a href="jointwithus.php">सदस्य बनें</a></li>
+             <li><a href="jointwithus">सदस्य बनें</a></li>
            </ul>
          </li>
-         <li><a class="nav-link scrollto" href="contact.php">संपर्क</a></li>
+         <li><a class="nav-link scrollto" href="contact">संपर्क</a></li>
        </ul>
        <i class="bi bi-list mobile-nav-toggle"></i>
      </nav>
